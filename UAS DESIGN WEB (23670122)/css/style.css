@@ -736,25 +736,3 @@ header.scrolled .logo{
   font-weight: 600;
   text-transform: capitalize;
 }
-/* --------------- Testimonials Section Styling --------------- */
-
-/* --------------- Contact Section Styling --------------- */
-
-/* --------------- Subscription Section Styling --------------- */
-
-/* --------------- Footer Styling --------------- */
-
-/* --------------- 1000px Screens --------------- */
-
-@media (max-width: 1000px) {
-}
-
-/* --------------- 768px Screens --------------- */
-
-@media (max-width: 768px) {
-}
-
-/* --------------- 500px Screens --------------- */
-
-@media (max-width: 500px) {
-}
